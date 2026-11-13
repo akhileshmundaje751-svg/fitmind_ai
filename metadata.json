@@ -1,0 +1,6 @@
+{
+  "name": "FitMind AI",
+  "description": "Personalized AI fitness, body composition, and nutrition platform with US Navy body fat estimation, TDEE, Mifflin-St Jeor BMR, smart diet and workout planners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
